@@ -7,12 +7,19 @@ In this Challenge assignment, you’ll build a financial database and web applic
 ==================================================================================
 
 Technologies
+
 import pandas as pd
+
 import hvplot.pandas
+
 from pathlib import Path
+
 from sklearn.cluster import KMeans
+
 import numpy as np
+
 from sklearn.decomposition import PCA
+
 from sklearn.preprocessing import StandardScaler
 
 ==================================================================================
